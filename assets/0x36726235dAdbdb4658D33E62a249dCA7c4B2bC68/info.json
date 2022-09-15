@@ -1,0 +1,28 @@
+{
+  "chainId": 50,
+  "address": "0x36726235dAdbdb4658D33E62a249dCA7c4B2bC68",
+  "name": "XSP Token",
+  "symbol": "XSP",
+  "decimals": 18,
+  "website": "http://xspswap.finance/",
+  "explorer": "https://xdc.blocksscan.io/",
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/XRC20-Swap"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/XSwapProtocol"
+    },
+    {
+      "name": "whitepaper",
+      "url": "https://xspswap.finance/WhitepaperV3.pdf"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/real_XSwapProtocol"
+    }
+  ]
+}
