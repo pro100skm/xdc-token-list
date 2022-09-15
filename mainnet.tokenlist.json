@@ -1,0 +1,104 @@
+{
+  "name": "XRC20 Tokens",
+  "timestamp": "2022-09-15T12:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 4,
+    "patch": 0
+  },
+  "tags": {
+  },
+  "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
+  "keywords": [
+    "blockchain",
+    "xswapprotocol",
+    "xswap"
+  ],
+  "tokens": [
+    {
+      "chainId": 50,
+      "address": "0x17476dc3eda45aD916cEAdDeA325B240A7FB259D",
+      "name": "XSwap Treasury Token",
+      "symbol": "XTT",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0x36726235dAdbdb4658D33E62a249dCA7c4B2bC68",
+      "name": "XSP Token",
+      "symbol": "XSP",
+      "decimals": 18,
+      "website": "https://xspswap.finance"
+    },
+    {
+      "chainId": 50,
+      "address": "0x951857744785E80e2De051c32EE7b25f9c458C42",
+      "name": "Wrapped XDC",
+      "symbol": "WXDC",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0xb3f18b584263191a33169f6393487e43e9586329",
+      "name": "WadzPay Token",
+      "symbol": "WTK",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0x5D5f074837f5d4618B3916ba74De1Bf9662a3fEd",
+      "name": "Storx",
+      "symbol": "SRX",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0xFf7412Ea7C8445C46a8254dFB557Ac1E48094391",
+      "name": "Plugin",
+      "symbol": "PLI",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0x4826634Fe187Ed3FFb64d77c5C1A67Ba49cc03dE",
+      "name": "BlocksWorkz Token",
+      "symbol": "BLKZ",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0x20B59e6C5DeB7d7cEd2CA823c6Ca81dd3f7e9A3A",
+      "name": "Datachain Foundation",
+      "symbol": "DC",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0x0E11710AAd67E7427CfbC12c353284C2e335F62c",
+      "name": "PrimeNumbers Token",
+      "symbol": "PRNT",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0xd04275E2Fd2875beaade6A80b39A75D4fe267df6",
+      "name": "NOTA",
+      "symbol": "USNOTA",
+      "decimals": 6
+    },
+    {
+      "chainId": 50,
+      "address": "0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437",
+      "name": "Bridged USDT",
+      "symbol": "xUSDT",
+      "decimals": 6
+    },
+    {
+      "chainId": 50,
+      "address": "0x1cae129Bc0dB1971EC8d5739f9506286a0068ca8",
+      "name": "XDCrystals",
+      "symbol": "GEM",
+      "decimals": 18
+    }
+  ]
+}

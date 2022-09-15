@@ -1,0 +1,38 @@
+{
+  "name": "XRC20 Tokens Apothem",
+  "timestamp": "2022-09-15T12:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 0
+  },
+  "keywords": [
+    "blockchain",
+    "xswapprotocol",
+    "xswap"
+  ],
+  "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
+  "tokens": [
+    {
+      "chainId": 51,
+      "address": "0x2a5c77b016Df1b3b0AE4E79a68F8adF64Ee741ba",
+      "name": "Wrapped XDC",
+      "symbol": "WXDC",
+      "decimals": 18
+    },
+    {
+      "chainId": 51,
+      "address": "0xFdCf8bD44EC46a71a13f00F4328F6b65adc8BCf9",
+      "name": "Test Token",
+      "symbol": "TT",
+      "decimals": 18
+    },
+    {
+      "chainId": 51,
+      "address": "0x339c94081D1F7808FeEa3E6E5B1feA864c3cef43",
+      "name": "XSP",
+      "symbol": "XSP",
+      "decimals": 18
+    }
+  ]
+}
