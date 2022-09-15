@@ -6,13 +6,12 @@
     "minor": 5,
     "patch": 0
   },
-  "tags": {
-  },
   "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
   "keywords": [
     "blockchain",
     "xswapprotocol",
-    "xswap"
+    "xswap",
+    "xinfin"
   ],
   "tokens": [
     {
@@ -21,7 +20,8 @@
       "name": "XSwap Treasury Token",
       "symbol": "XTT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x17476dc3eda45aD916cEAdDeA325B240A7FB259D/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x17476dc3eda45aD916cEAdDeA325B240A7FB259D/logo.png",
+      "tags": ["farming", "xdcpad", "launchpad"]
     },
     {
       "chainId": 50,
@@ -29,7 +29,8 @@
       "name": "XSP Token",
       "symbol": "XSP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x36726235dAdbdb4658D33E62a249dCA7c4B2bC68/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x36726235dAdbdb4658D33E62a249dCA7c4B2bC68/logo.png",
+      "tags": ["dex", "swap"]
     },
     {
       "chainId": 50,

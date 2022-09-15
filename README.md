@@ -24,8 +24,8 @@
 
 ### Optional
 
--  `logoURI`:     An optional logo of your token. Must be a **square** (recommended: 128x128) PNG w/ transparent background. Please compress using https://tinypng.com. By default: https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/${address}/logo.png
--  `tags`: An array of tag identifiers associated with the token.
+-  `logoURI`: An optional logo of your token. Must be a **square** (recommended: 128x128) PNG w/ transparent background. Please compress using https://tinypng.com. By default: https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/${address}/logo.png
+-  `tags`:    An array of tag identifiers associated with the token.
 
 ### Example of editing `mainnet.tokenlist.json` file
 
