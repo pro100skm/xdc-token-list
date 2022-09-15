@@ -1,4 +1,6 @@
-# Short Guide
+# XDC Token List
+
+## Short Guide
 1) Create pair and add liquidity in [XSWAP](https://app.xspswap.finance/add/XDC)
 2) Fork this repo
 3) (optional) All needed fragments(for token list extending) can be generated here: https://xd.xspswap.finance/generate-json
@@ -26,13 +28,8 @@
 -  `website`:     Official URL of the website.
 -  `description`: Short description of the project. 
 
-# A last note
-
-This list is maintained by volunteers in the community &amp; people like you around the internet. It may not always be up to date, and it may occasionally get it wrong. If you find an error or omission, please open an issue or make a PR with any corrections.
-
-
-
 ## Example of editing `mainnet.tokenlist.json` file
+
 - Before:
 ```
 ...
@@ -68,6 +65,10 @@ This list is maintained by volunteers in the community &amp; people like you aro
     }
  ]
 ```
+
+# A last note
+
+This list is maintained by volunteers in the community &amp; people like you around the internet. It may not always be up to date, and it may occasionally get it wrong. If you find an error or omission, please open an issue or make a PR with any corrections.
 
 ---
 
