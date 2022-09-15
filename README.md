@@ -73,10 +73,9 @@
 -  `address`:     Address of XRC-20 token, in [ERC-55](https://eips.ethereum.org/EIPS/eip-55) mixed-case format.
 -  `decimals`:    The decimals of the token. As Number and not String.
 -  `logoURI`:     An optional logo of your token. Must be a **square** (recommended: 128x128) PNG w/ transparent background. Please compress using https://tinypng.com. By default: https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/${address}/logo.png
--  `tags`:        An array of tag identifiers associated with the token.
--  `contact`:     A support links array: twitter, telegram, email, discord, facebook. Chats where people can get assistance regarding the token.
--  `github`:      Where token or project-related code lives.
 -  `website`:     Official URL of the website.
+-  `tags`:        An array of tag identifiers associated with the token.
+-  `links`:       Informational links array: twitter, telegram, email, discord, facebook, github, whitepaper.
 -  `description`: Short description of the project.
 
 # A last note

@@ -5,8 +5,6 @@
   "symbol": "XSP",
   "decimals": 18,
   "website": "http://xspswap.finance/",
-  "explorer": "https://xdc.blocksscan.io/",
-  "status": "active",
   "links": [
     {
       "name": "github",
