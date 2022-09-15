@@ -27,8 +27,7 @@
       "address": "0x36726235dAdbdb4658D33E62a249dCA7c4B2bC68",
       "name": "XSP Token",
       "symbol": "XSP",
-      "decimals": 18,
-      "website": "https://xspswap.finance"
+      "decimals": 18
     },
     {
       "chainId": 50,
