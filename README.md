@@ -3,7 +3,7 @@
 ## Short Guide
 1) Create pair and add liquidity in [XSWAP](https://app.xspswap.finance/add/XDC)
 2) Fork this repo
-3) (optional) JSON file and fragment(for token list extending) can be generated here: https://xd.xspswap.finance/generate-json
+3) (optional) JSON file and fragment(for token list extending) can be generated here: https://xdc.sale/generate-json
 4) Extend token list file for [Mainnet](https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/mainnet.tokenlist.json) | [Testnet](https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/testnet.tokenlist.json).
 5) Create directory in [assets folder](https://github.com/pro100skm/xdc-token-list/tree/master/assets/). The directory name for each token should be the [ERC-55](https://eips.ethereum.org/EIPS/eip-55)-formatted address of the token contract.
 6) Open your token directory.
