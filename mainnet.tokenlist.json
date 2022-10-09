@@ -101,6 +101,13 @@
       "name": "XDCrystals",
       "symbol": "GEM",
       "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0xb6E57fBB2D44092f75d9da2769FFc788ce931320",
+      "name": "BitcoinX",
+      "symbol": "BTCx",
+      "decimals": 8
     }
   ]
 }
