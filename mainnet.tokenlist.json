@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 5,
-    "patch": 1
+    "patch": 2
   },
   "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
   "keywords": [
@@ -108,6 +108,13 @@
       "name": "BitcoinX",
       "symbol": "BTCx",
       "decimals": 8
+    },
+    {
+      "chainId": 50,
+      "address": "0x1bc20d6b6a4f0d768e1b39d42575fc3cb008e865",
+      "name": "xXList",
+      "symbol": "xXLIST",
+      "decimals": 15
     }
   ]
 }
