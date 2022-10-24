@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 7,
-    "patch": 3
+    "patch": 4
   },
   "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
   "keywords": [
@@ -111,7 +111,7 @@
     },
     {
       "chainId": 50,
-      "address": "0x1bc20d6b6a4f0d768e1b39d42575fc3cb008e865",
+      "address": "0x1BC20D6B6a4F0d768e1B39D42575fc3cb008E865",
       "name": "xXList",
       "symbol": "xXLIST",
       "decimals": 15
