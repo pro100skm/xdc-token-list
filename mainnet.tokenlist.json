@@ -1,10 +1,10 @@
 {
   "name": "XRC20 Tokens",
-  "timestamp": "2022-10-24T22:03:29.938Z",
+  "timestamp": "2022-10-24T22:03:30.938Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
   "keywords": [
