@@ -8,7 +8,7 @@
 5) Create directory in [assets folder](https://github.com/pro100skm/xdc-token-list/tree/master/assets/). The directory name for each token should be the [ERC-55](https://eips.ethereum.org/EIPS/eip-55)-formatted address of the token contract.
 6) Open your token directory.
 7) Add `logo.png` and `info.json`. Logo must be a **square** (recommended: 128x128) PNG w/ transparent background. Please compress using https://tinypng.com.
-8) Create Pull Request
+8) Create Pull Request to this repo from your forked one.
 9) (optional) Ping me on telegram [@popovitsch](https://t.me/popovitsch) to speed up merging process.
 
 
