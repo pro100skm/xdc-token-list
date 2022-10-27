@@ -41,6 +41,13 @@
     },
     {
       "chainId": 50,
+      "address": "0x8A3cc832Bb6B255622E92dc9d4611F2A94d200DA",
+      "name": "Wrapped XDC",
+      "symbol": "WXDC2",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
       "address": "0xb3f18b584263191a33169f6393487e43e9586329",
       "name": "WadzPay Token",
       "symbol": "WTK",
