@@ -4,7 +4,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
   "keywords": [
@@ -121,6 +121,13 @@
       "address": "0x34514748F86A8dA01Ef082306b6d6e738F777f5A",
       "name": "Globiance Exchange Token",
       "symbol": "GBEX",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0x374a7CE8Fda576a92e3A17c47f47C6B7AEcEF39D",
+      "name": "CHUPACABRA",
+      "symbol": "CHUPA",
       "decimals": 18
     }
   ]
