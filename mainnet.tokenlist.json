@@ -1,10 +1,10 @@
 {
   "name": "XRC20 Tokens",
-  "timestamp": "2022-10-24T22:03:30.938Z",
+  "timestamp": "2022-11-09T20:01:32.219Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
   "keywords": [
@@ -104,10 +104,10 @@
     },
     {
       "chainId": 50,
-      "address": "0x1cae129Bc0dB1971EC8d5739f9506286a0068ca8",
+      "address": "0x84fb1a5795858E7296780a7f55C43afa20e9A7Ae",
       "name": "XDCrystals",
       "symbol": "GEM",
-      "decimals": 18
+      "decimals": 15
     },
     {
       "chainId": 50,
