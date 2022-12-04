@@ -1,9 +1,9 @@
 {
   "name": "XRC20 Tokens",
-  "timestamp": "2022-11-09T20:01:32.219Z",
+  "timestamp": "2022-12-04T20:11:32.219Z",
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 3
   },
   "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
@@ -135,6 +135,13 @@
       "address": "0x374a7CE8Fda576a92e3A17c47f47C6B7AEcEF39D",
       "name": "CHUPACABRA",
       "symbol": "CHUPA",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0x8f9920283470F52128bF11B0c14E798bE704fD15",
+      "name": "Comtech Gold",
+      "symbol": "CGO",
       "decimals": 18
     }
   ]
