@@ -1,6 +1,6 @@
 {
   "name": "XRC20 Tokens",
-  "timestamp": "2022-14-04T20:11:32.219Z",
+  "timestamp": "2023-01-03T10:11:32.219Z",
   "version": {
     "major": 3,
     "minor": 0,
@@ -142,6 +142,13 @@
       "address": "0x8f9920283470F52128bF11B0c14E798bE704fD15",
       "name": "Comtech Gold",
       "symbol": "CGO",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0xB5Fa33923EC3ff7F4B9AB7B4C20B236D31243F77",
+      "name": "Crescite",
+      "symbol": "CRE",
       "decimals": 18
     }
   ]
