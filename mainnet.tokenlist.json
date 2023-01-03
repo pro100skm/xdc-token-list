@@ -42,8 +42,8 @@
     {
       "chainId": 50,
       "address": "0x8A3cc832Bb6B255622E92dc9d4611F2A94d200DA",
-      "name": "Wrapped XDC",
-      "symbol": "WXDC2",
+      "name": "Wrapped GBEX XDC",
+      "symbol": "GBEX-WXDC",
       "decimals": 18
     },
     {
