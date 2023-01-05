@@ -3,7 +3,7 @@
   "timestamp": "2023-01-03T10:11:32.219Z",
   "version": {
     "major": 4,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
@@ -37,7 +37,9 @@
       "address": "0x951857744785E80e2De051c32EE7b25f9c458C42",
       "name": "Wrapped XDC",
       "symbol": "WXDC",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x951857744785E80e2De051c32EE7b25f9c458C42/logo.png",
+      "tags": ["wrapped", "native"]
     },
     {
       "chainId": 50,
