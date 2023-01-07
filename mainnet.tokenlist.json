@@ -2,7 +2,7 @@
   "name": "XRC20 Tokens",
   "timestamp": "2023-01-03T10:11:32.219Z",
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 1,
     "patch": 0
   },
@@ -40,6 +40,13 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x951857744785E80e2De051c32EE7b25f9c458C42/logo.png",
       "tags": ["wrapped", "native"]
+    },
+    {
+      "chainId": 50,
+      "address": "0xc280EbcD651d2a0C8D4bb49151062C9eEF55d370",
+      "name": "USPLUS",
+      "symbol": "US+",
+      "decimals": 6
     },
     {
       "chainId": 50,
