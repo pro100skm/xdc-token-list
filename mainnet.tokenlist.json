@@ -1,9 +1,9 @@
 {
   "name": "XRC20 Tokens",
-  "timestamp": "2023-01-03T10:11:32.219Z",
+  "timestamp": "2023-01-07T10:11:32.219Z",
   "version": {
     "major": 5,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
@@ -159,6 +159,13 @@
       "name": "Crescite",
       "symbol": "CRE",
       "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0x1eBb2C8a71A9ec59bF558886a8Adf8F4a565814F",
+      "name": "STASIS EURO",
+      "symbol": "EURS",
+      "decimals": 2
     }
   ]
 }
