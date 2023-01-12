@@ -3,7 +3,7 @@
   "timestamp": "2023-01-07T10:11:32.219Z",
   "version": {
     "major": 5,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
@@ -166,6 +166,13 @@
       "name": "STASIS EURO",
       "symbol": "EURS",
       "decimals": 2
+    },
+    {
+      "chainId": 50,
+      "address": "0xd9c714a2d98df7b3eabc3627b124ffb2d811098d",
+      "name": "ShibaInuXDC",
+      "symbol": "ShibaX",
+      "decimals": 10
     }
   ]
 }
