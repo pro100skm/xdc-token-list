@@ -1,0 +1,22 @@
+{
+    "website": "https://www.Nutriemp.com",
+    "chainId": 50,
+    "address": "0xD3dE36D7cE3e6A5f072363Fe0F9541e59F86AA3e",
+    "name": "GRAMZ",
+    "symbol": "GRAMZ",
+    "decimals": 18,
+    "description": "NUTRIEMP.CRYPTO is a herbalist agriculture company that has created its own cryptocurrency, called GRAMZ, to facilitate fair trade with other merchants and help build growing communities worldwide. \n",
+    "logoURI": "https://www.imgpp.com/s1/2022/11/01/GRAMZ.md.png",
+    "links": [
+       
+        {
+            "name": "twitter",
+            "url": "https://Twitter.com/nutriemp"
+        },
+       
+    ],
+    "support": {
+        "email": "",
+        "url": "https://linktr.ee/nutriemp.CRYPTO"
+    }
+}
