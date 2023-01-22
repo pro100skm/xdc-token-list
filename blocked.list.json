@@ -14,7 +14,7 @@
     "xinfin",
     "blocked"
   ],
-  "addresses": [
+  "blocked": [
     {
       "addresses": {
         "0x37f62895c69e36cff78994747b9257f8818411d5": {
@@ -43,5 +43,6 @@
       "stolen": 4200,
       "tags": ["rugpull", "scam"]
     }
-  ]
+  ],
+  "warning": []
 }
