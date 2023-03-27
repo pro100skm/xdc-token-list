@@ -21,9 +21,6 @@
       "description": "Launched presale with unverified contract and without audit. Raised funds. After finalizing presale minted extra tokens and sold them all.",
       "stolen": 4200,
       "tags": ["rugpull", "scam"],
-      "pairs":[
-        "0x824f2e5c91a38183a68f8c6f16e4a72211f23aa6"
-      ],
       "addresses": {
         "0x6ab7f236ba7f196ac6dd70658a44409507a1397b": {
           "link": "https://xdc.blocksscan.io/txs/0xdc9832b5c784dc5c733848d544e4a5c07caac2282cd8241cee2a74d6cee1dd75#overview",
