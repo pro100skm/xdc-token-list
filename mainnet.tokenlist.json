@@ -1,6 +1,6 @@
 {
   "name": "XRC20 Tokens",
-  "timestamp": "2023-01-07T10:11:32.219Z",
+  "timestamp": "2023-06-07T10:11:32.219Z",
   "version": {
     "major": 5,
     "minor": 3,
@@ -45,7 +45,7 @@
       "chainId": 50,
       "address": "0xc280EbcD651d2a0C8D4bb49151062C9eEF55d370",
       "name": "USPLUS",
-      "symbol": "US+",
+      "symbol": "USPLUS",
       "decimals": 6
     },
     {
