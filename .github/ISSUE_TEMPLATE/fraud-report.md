@@ -1,0 +1,45 @@
+---
+name: Fraud report
+about: Create a report to help us improve
+title: "[FRAUD]"
+labels: ''
+assignees: pro100skm
+
+---
+
+**Describe the fraud**
+
+A clear and concise description of what the fraud is.
+
+**Proofs and detailed information. Format example:**
+```json
+{
+      "token": "0x37f62895c69e36cff78994747b9257f8818411d5",
+      "name": "Cherry",
+      "description": "Launched presale with unverified contract and without audit. Raised funds. After finalizing presale minted extra tokens and sold them all.",
+      "stolen": 4200,
+      "tags": ["rugpull", "scam"],
+      "addresses": {
+        "0x6ab7f236ba7f196ac6dd70658a44409507a1397b": {
+          "link": "https://xdc.blocksscan.io/txs/0xdc9832b5c784dc5c733848d544e4a5c07caac2282cd8241cee2a74d6cee1dd75#overview",
+          "text": "Contract creator"
+        },
+        "0xddd6ff7cc22dd33d31d82c96b0bb7eea3474ac1a": {
+          "link": "https://xdc.blocksscan.io/txs/0x5eac6203e626779134259833ebe29a5a03d19582238669802aae5f22a451db48#overview",
+          "text": "Minted extra Cherry and sold them all"
+        },
+        "0x57422eb0b3ff460f733886b2be32c6047be4d513": {
+          "link": "https://xdc.blocksscan.io/txs/0x7c9a25dd205b3d6e057f7206c1374b3507b14827398a2eddefb413dc198644aa#overview",
+          "text": "Transferred 5 XDC to 0xddd6Ff7cc22dD33d31d82c96b0BB7eEa3474AC1A. (for fees)"
+        },
+        "0xacbd9c90155e03c9bcebf61e13eefd22bc873eed": {
+          "link": "https://xdc.blocksscan.io/txs/0x7c9a25dd205b3d6e057f7206c1374b3507b14827398a2eddefb413dc198644aa#overview",
+          "text": "Transferred 9,439 XDC to 0x57422eb0b3ff460f733886b2be32c6047be4d513. (for closing presale)"
+        }
+      }
+    }
+```
+
+**Screenshots**
+
+If applicable, add screenshots to help explain your problem.
