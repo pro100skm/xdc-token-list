@@ -1,9 +1,9 @@
 {
   "name": "XRC20 Tokens",
-  "timestamp": "2023-06-07T10:11:32.219Z",
+  "timestamp": "2023-07-25T10:11:32.219Z",
   "version": {
     "major": 5,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
@@ -173,6 +173,13 @@
       "name": "ShibaInuXDC",
       "symbol": "ShibaX",
       "decimals": 10
+    },
+    {
+      "chainId": 50,
+      "address": "0x11f4B2aE467020FB7Bce8631bAC27F62B869D49a",
+      "decimals": 12,
+      "symbol": "BIC",
+      "name": "Blue Phoenix Investments Coin"
     }
   ]
 }
