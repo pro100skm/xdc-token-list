@@ -180,6 +180,15 @@
       "decimals": 12,
       "symbol": "BIC",
       "name": "Blue Phoenix Investments Coin"
+    },
+    {
+      "chainId": 50,
+      "address": "0xF2739B7Cbb4503cd0331aaF44cE2843024CD6b3F",
+      "name": "AGRO",
+      "symbol": "AGR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0xF2739B7Cbb4503cd0331aaF44cE2843024CD6b3F/logo.png",
+      "tags": ["utility", "rewards", "discounts", "shopping"]
     }
   ]
 }
