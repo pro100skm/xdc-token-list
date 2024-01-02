@@ -1,9 +1,9 @@
 {
   "name": "XRC20 Tokens",
-  "timestamp": "2023-07-25T10:11:32.219Z",
+  "timestamp": "2024-01-02T10:11:32.219Z",
   "version": {
     "major": 5,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
@@ -180,6 +180,20 @@
       "decimals": 12,
       "symbol": "BIC",
       "name": "Blue Phoenix Investments Coin"
+    },
+    {
+      "chainId": 50,
+      "address": "0x3279dBEfABF3C6ac29d7ff24A6c46645f3F4403c",
+      "decimals": 18,
+      "symbol": "FTHM",
+      "name": "Fathom Protocol Token"
+    },
+    {
+      "chainId": 50,
+      "address": "0x49d3f7543335cf38Fa10889CCFF10207e22110B5",
+      "decimals": 18,
+      "symbol": "FXD",
+      "name": "Fathom USD"
     }
   ]
 }
