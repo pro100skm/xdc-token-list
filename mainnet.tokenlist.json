@@ -1,8 +1,8 @@
 {
   "name": "XRC20 Tokens",
-  "timestamp": "2024-01-08T10:11:32.219Z",
+  "timestamp": "2024-02-08T10:11:32.219Z",
   "version": {
-    "major": 6,
+    "major": 7,
     "minor": 7,
     "patch": 1
   },
@@ -188,6 +188,13 @@
       "symbol": "FXD",
       "name": "Fathom USD",
       "tags": ["stable"]
+    },
+    {
+      "chainId": 50,
+      "address": "0x05940B2dF33D6371201e7Ae099CeD4C363855dFE",
+      "decimals": 18,
+      "symbol": "LBT",
+      "name": "Law Block"
     }
   ]
 }
