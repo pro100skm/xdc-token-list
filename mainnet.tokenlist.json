@@ -3,7 +3,7 @@
   "timestamp": "2024-02-08T10:11:32.219Z",
   "version": {
     "major": 7,
-    "minor": 7,
+    "minor": 8,
     "patch": 1
   },
   "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
@@ -137,6 +137,13 @@
       "address": "0x374a7CE8Fda576a92e3A17c47f47C6B7AEcEF39D",
       "name": "CHUPACABRA",
       "symbol": "CHUPA",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0xCF071288cC70D737105c97485F9820668EAcCa51",
+      "name": "ChupaCabraV2",
+      "symbol": "CHUPA V2",
       "decimals": 18
     },
     {
