@@ -1,10 +1,10 @@
 {
   "name": "XRC20 Tokens",
-  "timestamp": "2024-02-08T10:11:32.219Z",
+  "timestamp": "2024-02-27T10:11:32.219Z",
   "version": {
     "major": 7,
-    "minor": 8,
-    "patch": 1
+    "minor": 9,
+    "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
   "keywords": [
@@ -202,6 +202,13 @@
       "decimals": 18,
       "symbol": "LBT",
       "name": "Law Block"
+    },
+    {
+      "chainId": 50,
+      "address": "0xe5F9AE9D32D93d3934007568B30B7A7cA489C486",
+      "decimals": 18,
+      "symbol": "CiFi",
+      "name": "Circularity Finance"
     }
   ]
 }
