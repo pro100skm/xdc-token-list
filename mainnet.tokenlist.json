@@ -43,13 +43,6 @@
     },
     {
       "chainId": 50,
-      "address": "0xc280EbcD651d2a0C8D4bb49151062C9eEF55d370",
-      "name": "USPLUS",
-      "symbol": "USPLUS",
-      "decimals": 6
-    },
-    {
-      "chainId": 50,
       "address": "0xb3f18b584263191a33169f6393487e43e9586329",
       "name": "WadzPay Token",
       "symbol": "WTK",
