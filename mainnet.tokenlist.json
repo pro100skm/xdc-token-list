@@ -1,9 +1,9 @@
 {
   "name": "XRC20 Tokens",
-  "timestamp": "2024-02-27T10:11:32.219Z",
+  "timestamp": "2024-06-06T10:11:32.219Z",
   "version": {
     "major": 7,
-    "minor": 11,
+    "minor": 12,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
@@ -209,6 +209,13 @@
       "decimals": 18,
       "symbol": "CiFi",
       "name": "Circularity Finance"
+    },
+    {
+      "chainId": 50,
+      "address": "0x8b20C72f1B138A41D2193dd056E117dce915ba8b",
+      "decimals": 18,
+      "symbol": "DOPU",
+      "name": "Dog With Purpose"
     }
   ]
 }
