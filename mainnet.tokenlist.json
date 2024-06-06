@@ -3,7 +3,7 @@
   "timestamp": "2024-06-06T10:11:32.219Z",
   "version": {
     "major": 8,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
@@ -82,13 +82,6 @@
       "name": "PrimeNumbers Token",
       "symbol": "PRNT",
       "decimals": 18
-    },
-    {
-      "chainId": 50,
-      "address": "0xd04275E2Fd2875beaade6A80b39A75D4fe267df6",
-      "name": "NOTA",
-      "symbol": "USNOTA",
-      "decimals": 6
     },
     {
       "chainId": 50,
