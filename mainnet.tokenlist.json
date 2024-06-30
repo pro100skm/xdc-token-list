@@ -1,9 +1,9 @@
 {
   "name": "XRC20 Tokens",
-  "timestamp": "2024-06-06T10:11:32.219Z",
+  "timestamp": "2024-06-26T10:11:32.219Z",
   "version": {
     "major": 8,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
@@ -92,31 +92,10 @@
     },
     {
       "chainId": 50,
-      "address": "0x84fb1a5795858E7296780a7f55C43afa20e9A7Ae",
-      "name": "XDCrystals",
-      "symbol": "GEM",
-      "decimals": 15
-    },
-    {
-      "chainId": 50,
       "address": "0xb6E57fBB2D44092f75d9da2769FFc788ce931320",
       "name": "BitcoinX",
       "symbol": "BTCx",
       "decimals": 8
-    },
-    {
-      "chainId": 50,
-      "address": "0x1BC20D6B6a4F0d768e1B39D42575fc3cb008E865",
-      "name": "xXList",
-      "symbol": "xXLIST",
-      "decimals": 15
-    },
-    {
-      "chainId": 50,
-      "address": "0x34514748F86A8dA01Ef082306b6d6e738F777f5A",
-      "name": "Globiance Exchange Token",
-      "symbol": "GBEX",
-      "decimals": 18
     },
     {
       "chainId": 50,
@@ -152,20 +131,6 @@
       "name": "STASIS EURO",
       "symbol": "EURS",
       "decimals": 2
-    },
-    {
-      "chainId": 50,
-      "address": "0xd9c714a2d98df7b3eabc3627b124ffb2d811098d",
-      "name": "ShibaInuXDC",
-      "symbol": "ShibaX",
-      "decimals": 10
-    },
-    {
-      "chainId": 50,
-      "address": "0x11f4B2aE467020FB7Bce8631bAC27F62B869D49a",
-      "decimals": 12,
-      "symbol": "BIC",
-      "name": "Blue Phoenix Investments Coin"
     },
     {
       "chainId": 50,
