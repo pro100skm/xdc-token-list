@@ -3,7 +3,7 @@
   "timestamp": "2024-06-26T10:11:32.219Z",
   "version": {
     "major": 8,
-    "minor": 3,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
@@ -153,13 +153,6 @@
       "decimals": 18,
       "symbol": "LBT",
       "name": "Law Block"
-    },
-    {
-      "chainId": 50,
-      "address": "0xe5F9AE9D32D93d3934007568B30B7A7cA489C486",
-      "decimals": 18,
-      "symbol": "CiFi",
-      "name": "Circularity Finance"
     },
     {
       "chainId": 50,
