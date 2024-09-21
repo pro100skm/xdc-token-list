@@ -3,7 +3,7 @@
   "timestamp": "2024-06-26T10:11:32.219Z",
   "version": {
     "major": 8,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
@@ -160,6 +160,13 @@
       "decimals": 18,
       "symbol": "DOPU",
       "name": "Dog with a Purpose"
+    },
+    {
+      "chainId": 50,
+      "address": "0xFa4dDcFa8E3d0475f544d0de469277CF6e0A6Fd1",
+      "decimals": 18,
+      "symbol": "BBB",
+      "name": "Beny Bad Boy"
     }
   ]
 }
