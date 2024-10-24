@@ -1,3 +1,7 @@
+# This is the Archive repository, please go to the [new repo under XSwapProtocol](https://github.com/XSwapProtocol/xdc-token-list)
+
+---
+
 # XDC Token List
 
 ## Short Guide
